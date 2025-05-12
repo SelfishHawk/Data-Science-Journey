@@ -33,11 +33,12 @@ This week marks the beginning of my Data Analytics journey. I revisited essentia
 ## 📂 Folder Structure
 
 Week01_Python_Pandas/
-├── 1_basics.py # Python syntax & type casting practice
-├── pandas_intro.ipynb # Pandas operations and examples
-├── sample_data.csv # Practice dataset
-├── notes.md # Weekly notes and learnings
-└── README.md # Weekly summary (this file)
+│
+├── 1_basics.py               # Python fundamentals: variables, loops, casting
+├── pandas_intro.ipynb        # Pandas Series, DataFrame, indexing, loading data
+├── sample_data.csv           # Sample dataset used for practice
+├── notes.md                  # Learning notes and personal reflections
+└── README.md                 # Weekly summary and documentation
 
 ---
 
